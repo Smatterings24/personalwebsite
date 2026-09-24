@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset=UTF-8">
+    <title>My First Webpage</title>
+<link rel="stylesheet"href="style.css">
+</head>
+
+<body> 
+<h1>Smatterings</h1>
+<h2>Vintage Finds</h2>
+<a> href="https://https://www.instagram.com/maryhaloi/>Link Text</a>
+<img src="  "alt=description of image>
+
+</body>
+
+Content 
+<h1>, <h2>, <h3>  HEADERS
+<p>  PARAGRAPHS OR SINGLE LINES OF TEXT
+<a>  LINKS, AN ANCHOR TAG
+<img>  images
+
+
